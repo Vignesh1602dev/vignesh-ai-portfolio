@@ -1,0 +1,178 @@
+{
+  "profile": {
+    "name": "Vignesh Yemul",
+    "shortName": "Vignesh",
+    "tagline": "Building practical AI-powered workflows, automation pipelines, and API-driven solutions that turn repetitive work into measurable outcomes.",
+    "role": "AI Automation Specialist",
+    "specialization": "AI Integration • Workflow Automation • Python • APIs",
+    "location": "Thane, Maharashtra, India",
+    "yearsOfExperience": "Fresher | Internship Experience",
+    "bio": "I'm an AI Automation Specialist with hands-on internship experience building AI-driven workflows and integrating LLMs such as GPT-4-class models and Google AI APIs into production web applications. I work across Python, REST API integration, automated workflows, and process analysis — breaking complex business steps into logical pipelines that reduce manual effort.",
+    "avatarSvg": "/src/assets/img/vignesh_placeholder.svg",
+    "resumePath": "/Vignesh_Yemul_Resume.pdf",
+    "social": {
+      "github": "",
+      "instagram": "",
+      "linkedin": "https://linkedin.com/in/vignesh-yemul-a59bb8357",
+      "email": "vigneshyemul16@gmail.com",
+      "phone": "+91 8010810630",
+      "website": ""
+    }
+  },
+
+  "skills": {
+    "categories": [
+      {
+        "name": "Automation & Workflow",
+        "items": ["Make.com", "Zapier fundamentals", "Custom Python workflow automation", "Webhook-based automation"]
+      },
+      {
+        "name": "AI / LLM",
+        "items": ["GPT-4-class models", "Claude", "Google AI APIs", "NLP", "Image Recognition", "Recommendation Systems", "Generative AI"]
+      },
+      {
+        "name": "API & Integration",
+        "items": ["REST APIs", "REST API design and consumption", "JSON", "Webhooks", "Postman", "API authentication"]
+      },
+      {
+        "name": "Backend",
+        "items": ["Python", "Django", "Node.js basics"]
+      },
+      {
+        "name": "Databases",
+        "items": ["MySQL", "MongoDB", "Firebase"]
+      },
+      {
+        "name": "Frontend",
+        "items": ["React", "Responsive Design", "Figma", "UI/UX Prototyping"]
+      },
+      {
+        "name": "Tools",
+        "items": ["Git", "VS Code", "Windows", "CMD", "Browser DevTools"]
+      },
+      {
+        "name": "Other",
+        "items": ["Process Analysis", "System Monitoring", "Troubleshooting", "Technical Documentation", "Team Training Guides"]
+      }
+    ]
+  },
+
+  "experience": [
+    {
+      "company": "Devrai Agritech",
+      "role": "AI Intern",
+      "period": "January 2026 – April 2026",
+      "location": "Remote | Shivajinagar, Pune",
+      "summary": "Built AI-driven features and automation workflows for an e-commerce and farm-management platform — from API design and LLM integration through deployment-ready backend delivery.",
+      "highlights": [
+        "Engineered and deployed AI-driven features including a product recommendation engine and intelligent search into an e-commerce and farm-management platform.",
+        "Integrated Google AI APIs for LLM-based NLP and image recognition into Django web applications.",
+        "Designed REST API endpoints consumed by a React frontend.",
+        "Automated data-entry and internal management workflows to reduce manual processing.",
+        "Audited manual processes and developed automated pipelines from data preprocessing through model integration and deployment.",
+        "Preprocessed and validated structured and visual datasets.",
+        "Implemented quality assurance and monitoring checks across pipeline stages.",
+        "Collaborated remotely while maintaining regular progress reporting and feedback cycles."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "lms-automation-platform",
+      "title": "LMS Automation Platform",
+      "subtitle": "Moodle API Integration",
+      "description": "Built an automated workflow layer on top of a Moodle-based Learning Management System using the Moodle Web Services REST API — turning repetitive admin work into scheduled, token-authenticated Python pipelines.",
+      "features": [
+        "Automated student enrollment & bulk enrollment",
+        "Automated course creation",
+        "Grade synchronization",
+        "Assignment reminders & completion reports",
+        "Moodle REST/JSON API integration",
+        "Scheduled jobs with error handling & monitoring"
+      ],
+      "impact": "Automated repetitive administrative tasks and reduced manual administrative effort by an estimated ~50%.",
+      "stack": ["Python", "Moodle REST API", "JSON", "Postman", "MySQL", "Scheduled Jobs"],
+      "role": "Automation Developer",
+      "year": "2026",
+      "link": "",
+      "image": "https://motionsites.ai/assets/hero-space-voyage-preview-eECLH3Yc.gif",
+      "highlight": true
+    },
+    {
+      "id": "ai-nexus",
+      "title": "AI-Nexus",
+      "subtitle": "Multi-model AI Integration Platform",
+      "description": "A multi-model AI integration platform built with Django and REST APIs — providing modular wrappers for Google AI models across NLP, image recognition, and generative AI workflows.",
+      "features": [
+        "Integration of multiple Google AI models",
+        "NLP, image recognition & generative AI",
+        "Modular API wrappers",
+        "Plug-and-play model integration",
+        "Django backend with REST API architecture"
+      ],
+      "impact": "Reduced integration time for new AI models by approximately 60% compared with direct API integrations and was deployed/tested across 3 use-case domains.",
+      "stack": ["Django", "REST API", "Google AI APIs", "NLP", "Image Recognition", "Generative AI"],
+      "role": "AI Developer",
+      "year": "2026",
+      "link": "",
+      "image": "https://motionsites.ai/assets/hero-codenest-preview-Cgppc2qV.gif",
+      "highlight": true
+    },
+    {
+      "id": "movie-recommendation-system",
+      "title": "Movie Recommendation System",
+      "subtitle": "ML Pipeline",
+      "description": "Designed and implemented a hybrid recommendation engine combining user-user similarity, item-item similarity, global averages, and matrix factorization on cleaned interaction data.",
+      "features": [
+        "Hybrid engine: user-user & item-item similarity",
+        "Global averages & matrix factorization",
+        "Cleaned and validated 1,000+ interaction records",
+        "Compared recommendation approaches with documented rationale"
+      ],
+      "impact": "Improved measurable accuracy using matrix factorization against a global-average baseline, with reproducible model-selection documentation.",
+      "stack": ["Python", "Recommendation Systems", "Data Cleaning", "Matrix Factorization", "Model Evaluation"],
+      "role": "ML Developer",
+      "year": "2025",
+      "link": "",
+      "image": "https://motionsites.ai/assets/hero-vex-ventures-preview-BczMFIiw.gif"
+    }
+  ],
+
+  "achievements": [
+    {
+      "title": "TECHBLITZ '26 — Hackathon Winner",
+      "detail": "VCET · Won a time-boxed, specification-driven design challenge involving rapid prototyping, attention to detail, and iterative delivery under a hard deadline."
+    },
+    {
+      "title": "Technical Team Lead — VCET College Hackathon",
+      "detail": "2023 · Coordinated 15+ participants across tracks and managed task allocation and reporting to faculty coordinators."
+    },
+    {
+      "title": "Taskforce Member — VCET Student Council",
+      "detail": "Organized logistics and communication for college-wide events, demonstrating coordination and deadline-driven execution."
+    }
+  ],
+
+  "certifications": [
+    "Data Science with Python — 2026"
+  ],
+
+  "education": [
+    {
+      "institution": "Vidyavardhini's College of Engineering and Technology (VCET)",
+      "location": "Mumbai University",
+      "degree": "B.E. — Information Technology",
+      "period": "2022 – 2026",
+      "coursework": [
+        "Data Structures & Algorithms",
+        "Computer Networks",
+        "Cybersecurity",
+        "Full-Stack Development",
+        "Database Management"
+      ]
+    }
+  ],
+
+  "testimonials": []
+}
