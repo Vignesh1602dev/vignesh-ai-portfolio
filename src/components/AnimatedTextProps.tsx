@@ -10,6 +10,7 @@ interface AnimatedTextProps {
   scrollOffset?: ScrollOffset;
 }
 
+
 export default function AnimatedText({
   text,
   className = '',
